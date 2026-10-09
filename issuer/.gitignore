@@ -1,0 +1,14 @@
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+.env
+.env.*
+backend/.env
+backend/.env.*
+backend/keys/
+backend/**/*.key
+backend/**/*.pem
+backend/**/*.p12
+backend/**/*.hex
+**/.DS_Store
