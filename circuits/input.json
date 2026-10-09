@@ -1,5 +1,9 @@
 {
-  "birthYear": 2016,
+  "birthYear": 2008,
+  "birthMonth": 10,
+  "birthDay": 10,
   "currentYear": 2026,
+  "currentMonth": 10,
+  "currentDay": 9,
   "minimumAge": 18
 }
