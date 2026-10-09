@@ -1,0 +1,17 @@
+1,1,2,main.eligible
+2,2,2,main.birthYear
+3,3,2,main.currentYear
+4,4,2,main.minimumAge
+5,5,1,main.cmp.out
+6,6,1,main.cmp.in[0]
+7,-1,1,main.cmp.in[1]
+8,7,0,main.cmp.n2b.out[0]
+9,8,0,main.cmp.n2b.out[1]
+10,9,0,main.cmp.n2b.out[2]
+11,10,0,main.cmp.n2b.out[3]
+12,11,0,main.cmp.n2b.out[4]
+13,12,0,main.cmp.n2b.out[5]
+14,13,0,main.cmp.n2b.out[6]
+15,14,0,main.cmp.n2b.out[7]
+16,15,0,main.cmp.n2b.out[8]
+17,16,0,main.cmp.n2b.in
