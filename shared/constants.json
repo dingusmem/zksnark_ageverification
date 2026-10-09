@@ -1,0 +1,34 @@
+{
+  "system": {
+    "protocol": "groth16",
+    "curve": "bn128",
+    "signatureScheme": "EdDSA-Poseidon-BabyJubjub",
+    "dateFormat": "YYYYMMDD"
+  },
+  "trustedIssuer": {
+    "name": "National Identity Authority",
+    "publicKey": [
+      "11513205627209804218258999589178830175530791841079753614756486058912071880488",
+      "336125006497184286243916960098717804455842042646698942671385786510046582805"
+    ]
+  },
+  "circuitSignals": {
+    "public": [
+      "currentDate",
+      "ageLimit",
+      "pubKeyX",
+      "pubKeyY"
+    ],
+    "private": [
+      "birthDate",
+      "r8x",
+      "r8y",
+      "s"
+    ]
+  },
+  "artifacts": {
+    "wasm": "age_check.wasm",
+    "zkey": "age_check_final.zkey",
+    "vkey": "verification_key.json"
+  }
+}
