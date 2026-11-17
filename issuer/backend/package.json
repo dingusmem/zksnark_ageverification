@@ -1,0 +1,17 @@
+{
+  "name": "zk-snark-age-verification-issuer-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@noble/curves": "^1.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.1",
+    "express": "^4.21.2"
+  }
+}
